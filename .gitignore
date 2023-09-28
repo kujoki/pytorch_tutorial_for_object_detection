@@ -1,0 +1,20 @@
+# virtualenv stuff
+/env
+/venv
+.venv
+.env
+
+# git stuff
+.git
+
+# workspace stuff
+.idea
+**/.DS_Store
+/.vscode
+
+.ipynb_checkpoints
+
+PennFudanPed.zip
+
+week12_od.ipynb
+week_after_isort_and_black.ipynb
